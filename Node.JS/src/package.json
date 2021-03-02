@@ -1,22 +1,25 @@
 {
-    "name": "test-api",
-    "author": "yournamehere",
-    "main": "src/app.js",
-    "scripts": {
-        "start": "node app.js",
-        "test": "jest --testTimeout=10000"
-    },
-    "jest": {
-        "testEnvironment": "node",
-        "coveragePathIgnorePatterns": [
-            "/node_modules/"
-        ]
-    },
-    "dependencies": {
-        "express": "4.17.1"
-    },
-    "devDependencies": {
-        "jest": "^26.4.0",
-        "supertest": "^4.0.2"
-    }
+	"name": "test-api",
+	"author": "yournamehere",
+	"main": "src/app.js",
+	"scripts": {
+		"start": "node app.js",
+		"test": "jest"
+	},
+	"jest": {
+		"testEnvironment": "node",
+		"coveragePathIgnorePatterns": [
+			"/node_modules/"
+		]
+	},
+	"dependencies": {
+		"body-parser": "^1.19.0",
+		"express": "4.17.1",
+		"nodemon": "^2.0.7",
+		"uuid": "^8.3.2"
+	},
+	"devDependencies": {
+		"jest": "^26.6.3",
+		"supertest": "^4.0.2"
+	}
 }

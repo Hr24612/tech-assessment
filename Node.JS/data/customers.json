@@ -1,41 +1,31 @@
-[
-    {
-        "firstName": "Carol",
-        "lastName": "Danvers",
-        "age": 33,
-        "address":
-        {
-            "streetAddress": "417 5th Avenue Apt 10B",
-            "city": "New York",
-            "state": "NY",
-            "postalCode": "10016"
-        },
-        "phoneNumber": "2125551234"
-    },
-    {
-        "firstName": "Tony",
-        "lastName": "Stark",
-        "age": 48,
-        "address":
-        {
-            "streetAddress": "890 Fifth Avenue",
-            "city": "New York",
-            "state": "NY",
-            "postalCode": "10021"
-        },
-        "phoneNumber": "2125554567"
-    },
-    {
-        "firstName": "Steve",
-        "lastName": "Rogers",
-        "age": 93,
-        "address":
-        {
-            "streetAddress": "890 Fifth Avenue",
-            "city": "New York",
-            "state": "NY",
-            "postalCode": "10021"
-        },
-        "phoneNumber": "6781367092"
-    }
-]
+{
+	"customers": [
+		{
+			"firstName": "xyz",
+			"lastName": "abc",
+			"age": 333,
+			"address": "USA",
+			"phoneNumber": 3423235,
+			"date_created": "3/2/2021, 8:21:22 AM",
+			"customerID": "fbb40cb3-dc16-445e-9be4-d40affd82826"
+		},
+		{
+			"firstName": "amir",
+			"lastName": "abc",
+			"age": 333,
+			"address": "USA - 333 werew",
+			"phoneNumber": 34232354344,
+			"date_created": "3/2/2021, 9:40:30 AM",
+			"customerID": "d14925ff-fc73-478b-892c-7d370233a157"
+		},
+		{
+			"firstName": "Amir",
+			"lastName": "abc",
+			"age": 333,
+			"address": "USA",
+			"phoneNumber": 34232353452,
+			"date_created": "3/2/2021, 4:09:50 PM",
+			"customerID": "dbaa923f-ab62-46df-b28c-6adc80f10bff"
+		}
+	]
+}
