@@ -9,7 +9,7 @@
 <br>
 
 
-<img style="float: right;" alt="Description" src="fileStructure.png">
+<img align="right" src="fileStructure.PNG">
 
 The image on the right show my project layout. The data folder was provided in the sample project and I am using that as a mock database folder. test.json files are used as database storages when running tests and the other ones are development databases.
 
