@@ -1,13 +1,15 @@
-![Sogeti Logo](/logo.png)
+![alt text](logo.png)
 
 ## Sogeti Assignment (Node.js/Express.js)
 
 ---
 
 <br>
+
 <br>
 
-<img style="float: right;" src="fileStructure.png">
+
+<img style="float: right;" alt="Description" src="fileStructure.png">
 
 The image on the right show my project layout. The data folder was provided in the sample project and I am using that as a mock database folder. test.json files are used as database storages when running tests and the other ones are development databases.
 
