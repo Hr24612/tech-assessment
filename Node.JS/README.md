@@ -29,7 +29,7 @@ The src folder contains all the backend logic.
 <br>
 <br>
 
-In case if you're interested in testing the API endpoints yourself, here are the example JSON body data that you can use:
+In case if you're interested in testing the API endpoints yourself, here are some example JSON body data that you can use. Some might not work since the ID aren't in the JSON files so its recommended to replace the IDs with the onces present in the JSON files
 <br>
 <br>
 
