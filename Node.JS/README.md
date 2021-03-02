@@ -21,8 +21,11 @@ The src folder contains all the backend logic.
 - The models folder contains user and customer models
 - The nodemodules folder stores all the dependencies
 - The routes folder has the api endpoints to which the client will be speaking to
-- The tests folder contains the test file that can be run by the following command `PS C:\...\Node.JS\src> npm test`
-- next we have the app.js which can be run by the following command `PS C:\...\Node.JS\src> nodemon app.js`. I am using nodemon package because it can detect changes.
+- The tests folder contains the test file that can be run by the following command:
+  -  `PS C:\...\Node.JS\src> npm test`
+- next we have the app.js which can be run by the following command: 
+  - `PS C:\...\Node.JS\src> nodemon app.js`.
+- I am using nodemon package because it can detect changes.
   \*Next, we have the package.json, package-lock.json, two images bring used in the readme and the readme file itself.
 
 <br>
