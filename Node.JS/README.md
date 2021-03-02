@@ -10,7 +10,7 @@
 
 <img align="right" src="fileStructure.PNG">
 
-The image on the right show my project layout. The data folder was provided in the sample project and I am using that as a mock database folder. test.json files are used as database storages when running tests and the other ones are development databases.
+The image on the right 👉 show my project layout. The data folder was provided in the sample project and I am using that as a mock database folder. test.json files are used as database storages when running tests and the other ones are development databases.
 
 The src folder contains all the backend logic.
 
@@ -93,4 +93,4 @@ In case if you're interested in testing the API endpoints yourself, here are the
 <br>
 <br>
 
-I would love to hear your feedback. Please reach out to me at amir.col6@gmail.com to share your thoughts. I hope you liked my attempt ✌️
+I would love to hear your feedback. Please reach out to me at 📧 amir.col6@gmail.com to share your thoughts. I hope you liked my attempt ✌️
