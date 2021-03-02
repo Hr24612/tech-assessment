@@ -1,11 +1,10 @@
 ![alt text](logo.png)
 
-## Sogeti Assignment (Node.js/Express.js)
+## ✔️ Sogeti Assignment (Node.js/Express.js)
 
 ---
 
 <br>
-
 <br>
 
 
@@ -36,7 +35,7 @@ In case if you're interested in testing the API endpoints yourself, here are the
 <br>
 
 ```
-POST request ('/api/customer/add_customer)
+🔨 POST request ('/api/customer/add_customer)
 {
     "customer": {
         "firstName": 3533,
@@ -48,7 +47,7 @@ POST request ('/api/customer/add_customer)
 }
 
 
-GET request (/api/order/get_by_customer)
+↪️ GET request (/api/order/get_by_customer)
 {
     "order":{
         "customerID": "dbaa923f-ab62-46df-b28c-6adc80f10bff"
@@ -56,11 +55,11 @@ GET request (/api/order/get_by_customer)
 }
 
 
-GET request (/api/order/get_all)
+↪️ GET request (/api/order/get_all)
 //No Body
 
 
-POST request (/api/order/create_order)
+🔨 POST request (/api/order/create_order)
 {
     "order": {
        "customerID": "dbaa923f-ab62-46df-b28c-6adc80f10bff",
@@ -71,7 +70,7 @@ POST request (/api/order/create_order)
     }
 }
 
-PUT request (/api/order/update_order)
+🩹 PUT request (/api/order/update_order)
 {
     "order": {
        "customerID": "dff333df-43d1-462f-b476-dabf01c3e724",
@@ -83,7 +82,7 @@ PUT request (/api/order/update_order)
     }
 }
 
-DELETE request (/api/order/delete_order)
+❌ DELETE request (/api/order/delete_order)
 {
     "order": {
        "orderID": "3929e0fa-feae-40de-a5bd-35237373ca0c"
@@ -91,3 +90,8 @@ DELETE request (/api/order/delete_order)
 }
 
 ```
+
+<br>
+<br>
+
+I would love to hear your feedback. Please reach out to me at amir.col6@gmail.com to share your thoughts. I hope you liked my attempt ✌️
