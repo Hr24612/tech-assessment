@@ -14,7 +14,7 @@ The image on the right show my project layout. The data folder was provided in t
 
 The src folder contains all the backend logic.
 
-- config folder contains readData.js and writeData.js files which are used to read and write data to the JSON files in the data folder. The secret.js file contains the path to the databases and the port of the server. Lastly, the setup.js file is used to switch between databases when running in development or test modes
+- The config folder contains readData.js and writeData.js files which are used to read and write data to the JSON files in the data folder. The secret.js file contains the path to the databases and the port of the server. Lastly, the setup.js file is used to switch between databases when running in development or test modes
 - The controller folder contains the logic for each API route.
 - The middleware folder contains the validateUserInput.js middleware that is used to validate user input
 - The models folder contains user and customer models
@@ -22,10 +22,9 @@ The src folder contains all the backend logic.
 - The routes folder has the api endpoints to which the client will be speaking to
 - The tests folder contains the test file that can be run by the following command:
   -  `PS C:\...\Node.JS\src> npm test`
-- next we have the app.js which can be run by the following command: 
-  - `PS C:\...\Node.JS\src> nodemon app.js`.
-- I am using nodemon package because it can detect changes.
-  \*Next, we have the package.json, package-lock.json, two images bring used in the readme and the readme file itself.
+- Next, we have the app.js which can be run by the following command: 
+  - `PS C:\...\Node.JS\src> nodemon app.js`. I am using nodemon package because it can detect changes.
+- Lastly, we have the package.json, package-lock.json, two images bring used in the readme and the readme file itself.
 
 <br>
 <br>
